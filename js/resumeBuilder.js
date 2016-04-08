@@ -61,7 +61,9 @@ var work= {
             "title" : "Developer & Architect",
             "location" : "Seoul, Korea",
             "dates" : "2008 - 2016",
-            "description" : "I have worked as not only a developer but also tech leader who cares team members. I am always interested in latest tech & skill and willing to try them."
+            "description" : "I have worked as not only a developer but also tech leader " +
+                                "who cares team members. I am always interested in latest " +
+                                "tech & skill and willing to try them."
         }
 
     ],

@@ -9,9 +9,9 @@ h3,
 h4,
 h5,
 h6 {
-  padding:0;
-  margin:0;
-  font-family: "Roboto", sans-serif;
+    padding:0;
+    margin:0;
+    font-family: "Nunito", sans-serif;
 }
 
 .clear-fix {
@@ -120,6 +120,7 @@ a {
 .white-text {
   font-weight: bold;
   color: #fff;
+  font-size: large;
 }
 
 .gray {
@@ -134,7 +135,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+    background-color: #4CAF50;
 }
 
 .flex-box {
@@ -170,7 +171,23 @@ span {
 }
 
 #lets-connect {
-  text-align: center;
+  text-align: left;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+
+.col6 {
+    width: 50%;
+}
+
+div.centerContents {
+
+    margin-bottom: 10%;
 }
 
 /* Media queries to handle various device widths */
