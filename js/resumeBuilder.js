@@ -142,7 +142,7 @@ var education = {
             "majors" : [
                 "Systems Management of Engineering"
             ],
-            "dates" : 2002,
+            "dates" : "2002-2007",
             "url" : "http://www.skku.ac.kr/"
         }
 
@@ -153,7 +153,7 @@ var education = {
         {
             "title" : "Front-End Web Developer Nanodegree",
             "school" : "Udacity",
-            "dates" : 2016,
+            "dates" : "2016-",
             "url" : "https://www.udacity.com/"
         }
 
